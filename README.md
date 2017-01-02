@@ -24,5 +24,56 @@ wbc:voy:app:td
 wbc:ein:app:in
 ```
 
-### Installing
+STG
 
+```
+stg:oaf:app:cc
+stg:ace:app:st
+stg:wow:app:td
+stg:wap:app:st
+```
+
+BOM
+
+```
+bom:oaf:app:cc
+bom:ace:app:st
+bom:wow:app:td
+bom:wap:app:st
+```
+
+BSA
+
+```
+bsa:oaf:app:cc
+bsa:ace:app:st
+bsa:wow:app:td
+
+```
+
+
+### new variables and events
+
+eVars
+
+```
+eVarXX: journey-type
+eVarXX: account-type
+eVarXX: form-type
+eVarXX: business-type
+eVarXX: account-status
+```
+
+Props
+
+```
+propXX: product-count
+
+```
+
+Events
+
+```
+eventXX: welcome
+
+```
