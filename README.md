@@ -48,7 +48,6 @@ BSA
 bsa:oaf:app:cc
 bsa:ace:app:st
 bsa:wow:app:td
-
 ```
 
 
@@ -68,12 +67,10 @@ Props
 
 ```
 propXX: product-count
-
 ```
 
 Events
 
 ```
 eventXX: welcome
-
 ```
