@@ -96,13 +96,13 @@ event87: Quote complete
 * Application Status (old property: formCompleteStatus): Updated code to read new property, and new conditions to work only if it's a STP Form with status information
 
 
-## Dependencies
+## DataLayer Properties - WBG & WBC
 
-datalayer for applications
+datalayer for applications compatible to both wbc and wbg tracking. 
 
-```diff
+```
 digitalData = {
-    + //generic_Vars-START
+    //generic_Vars-START
     'siteBrand': 'wbc',
     'siteName': 'oregon', //oregon|oneclick|ace|oaf|webapp
     'siteSection': 'oregon',
@@ -183,3 +183,4 @@ digitalData = {
 ## Dependencies
 
 Form name depends on siteID which will either come from analytics or siteID code in s_code.js
+
