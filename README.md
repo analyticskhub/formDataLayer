@@ -102,7 +102,7 @@ datalayer for applications
 
 ```
 digitalData = {
-    `//generic_Vars-START`
+    ####//generic_Vars-START
     'siteBrand': 'wbc',
     'siteName': 'oregon', //oregon|oneclick|ace|oaf|webapp
     'siteSection': 'oregon',
@@ -110,14 +110,14 @@ digitalData = {
     'siteEnv': 'prod', // prod|test
     'siteDomain': 'www.westpac.com.au',
     'siteExperience': 'mob', //mob|desktop|tab
-    `//generic_Vars-END`
+    ####//generic_Vars-END
 
-    `//form_specific_vars-START`
-    `//------old wbc specific properties-----`
+    ####//form_specific_vars-START
+    ####//------old wbc specific properties-----
     'formName': 'savings and transaction"',
     'formType': 'checkurl',
     'transactionID': 'xyzzzz',
-   ` //------ old wbc specific properties ----`
+    ####//------ old wbc specific properties ----
     'formIsSTP': 'true', //bankwow forms only
     'formVariant': 'na', // activate|unlock|na bankwow forms only
     'newFormName': 'st', // new product group as part of formname
@@ -149,8 +149,8 @@ digitalData = {
         'qty': '1'
     }
     ],
-    `// if form_IsSTP && applicationStatus exists populate application status eVar72`
-    `// separated by ; if more than one product`
+    ####// if form_IsSTP && applicationStatus exists populate application status eVar72
+    ####// separated by ; if more than one product
     'applicationStatus': [{
         'accountStatus': 'opened',
         'profileStatus': 'created',
@@ -163,7 +163,7 @@ digitalData = {
         'exceptionCode': '14442'
     }
     ],
-    `// new property for wbg, replaces "transactionID" to accomodate multiple transaction ID` 
+    ####// new property for wbg, replaces "transactionID" to accomodate multiple transaction ID 
     'appReference': [{
         'prod': 'WBC03PL005',
         'Id': '1',
@@ -173,8 +173,7 @@ digitalData = {
         'Id': '1',
     }
     ]
-   ` //form_specific_vars-END`
-
+    ####//form_specific_vars-END
 }
 ```
 
