@@ -76,8 +76,6 @@ digitalData = {
 /* - - - - - Common-vars-END - - - - - - - - - -*/
     "formName": "Cons CC",
     "formType": "checkurl",
-    "formIsSTP": "true",
-    "formVariant": "na",
     "newFormName": "cc",
     "journeyType": "pub",
     "accountType": "na",
@@ -103,8 +101,6 @@ digitalData = {
     "siteExperience": "mob",
     "formName": "Cons CC",
     "formType": "checkurl",
-    "formIsSTP": "true",
-    "formVariant": "na",
     "newFormName": "cc",
     "journeyType": "pub",
     "accountType": "na",
@@ -140,8 +136,6 @@ digitalData = {
 /* - - - - - Common-vars-END - - - - - - - - - -*/
     "formName": "Cons CC",
     "formType": "checkurl",
-    "formIsSTP": "true",
-    "formVariant": "na",
     "newFormName": "cc",
     "journeyType": "pub",
     "accountType": "na",
@@ -210,11 +204,11 @@ digitalData = {
     ],
     "appReference": [{
         "prod": "WBC03PL005",
-        "Id": "1"
+        "Id": "2323435671"
     },
     {
         "prod": "WBC03PL005",
-        "Id": "1"
+        "Id": "asdfkj3533sdfsdf"
     }
     ]
 }
