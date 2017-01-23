@@ -6,6 +6,7 @@ ONECLICK APPLICATION DATALAYER CONVENTION
         one click application welcome details
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 digitalData = {
+/* - - - - - Common-vars-START - - - - - - - - - -*/
     "siteBrand": "wbc",
     "siteName": "oneclick",
     "siteSection": "cao",
@@ -13,6 +14,7 @@ digitalData = {
     "siteEnv": "prod",
     "siteDomain": "www.westpac.com.au",
     "siteExperience": "mob",
+/* - - - - - Common-vars-END - - - - - - - - - -*/
     "formName": "Cons CC",
     "formType": "checkurl",
     "formIsSTP": "true",
@@ -29,6 +31,7 @@ digitalData = {
         one click application start details
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 digitalData = {
+/* - - - - - Common-vars-START - - - - - - - - - -*/
     "siteBrand": "wbc",
     "siteName": "oneclick",
     "siteSection": "cao",
@@ -36,6 +39,7 @@ digitalData = {
     "siteEnv": "prod",
     "siteDomain": "www.westpac.com.au",
     "siteExperience": "mob",
+/* - - - - - Common-vars-END - - - - - - - - - -*/
     "formName": "Cons CC",
     "formType": "checkurl",
     "formIsSTP": "true",
@@ -45,7 +49,7 @@ digitalData = {
     "accountType": "na",
     "trackOnce": "true",
     "pageName": "your-details",
-    //"eventKey" : "mob:wbc_oregon_app_cc_your-details",
+    "eventKey" : "mob:wbc_oregon_app_cc_your-details",
     "pageStep": "start",
     "pageType": "application",
     "productID": [{
@@ -61,6 +65,7 @@ digitalData = {
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 digitalData = {
+/* - - - - - Common-vars-START - - - - - - - - - -*/
     "siteBrand": "wbc",
     "siteName": "oneclick",
     "siteSection": "cao",
@@ -68,6 +73,7 @@ digitalData = {
     "siteEnv": "prod",
     "siteDomain": "www.westpac.com.au",
     "siteExperience": "mob",
+/* - - - - - Common-vars-END - - - - - - - - - -*/
     "formName": "Cons CC",
     "formType": "checkurl",
     "formIsSTP": "true",
@@ -85,12 +91,15 @@ digitalData = {
         one click application save details
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 digitalData = {
+/* - - - - - Common-vars-START - - - - - - - - - -*/
     "siteBrand": "wbc",
     "siteName": "oneclick",
     "siteSection": "cao",
     "siteSubSection": "",
     "siteEnv": "prod",
     "siteDomain": "www.westpac.com.au",
+    "siteExperience": "mob",
+/* - - - - - Common-vars-END - - - - - - - - - -*/
     "siteExperience": "mob",
     "formName": "Cons CC",
     "formType": "checkurl",
@@ -120,6 +129,7 @@ digitalData = {
         one click application retrive details
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 digitalData = {
+/* - - - - - Common-vars-START - - - - - - - - - -*/
     "siteBrand": "wbc",
     "siteName": "oneclick",
     "siteSection": "cao",
@@ -127,6 +137,7 @@ digitalData = {
     "siteEnv": "prod",
     "siteDomain": "www.westpac.com.au",
     "siteExperience": "mob",
+/* - - - - - Common-vars-END - - - - - - - - - -*/
     "formName": "Cons CC",
     "formType": "checkurl",
     "formIsSTP": "true",
@@ -145,6 +156,7 @@ digitalData = {
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 digitalData = {
+/* - - - - - Common-vars-START - - - - - - - - - -*/
     "siteBrand": "wbc",
     "siteName": "oneclick",
     "siteSection": "cao",
@@ -152,6 +164,7 @@ digitalData = {
     "siteEnv": "prod",
     "siteDomain": "www.westpac.com.au",
     "siteExperience": "mob",
+/* - - - - - Common-vars-END - - - - - - - - - -*/
     "formName": "Cons CC",
     "formType": "checkurl",
     "formIsSTP": "true",
