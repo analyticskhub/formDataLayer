@@ -18,43 +18,43 @@ WBC
 
 Application
 ```
-wbc:ore:app:cc
-wbc:wow:app:st
-wbc:dom:app:td
-wbc:voy:app:td
-wbc:ein:app:in
+wbc:ore:app:cons:cc
+wbc:wow:app:cons:st
+wbc:dom:app:cons:td
+wbc:voy:app:bus:td
+wbc:ein:app:cons:in
 ```
 Enquiry
 ```
-wbc:wow:enq:st
-wbc:dom:enq:td
-wbc:voy:enq:td
+wbc:wow:enq:cons:st
+wbc:dom:enq:cons:td
+wbc:voy:enq:bus:td
 ```
 
 STG
 
 ```
-stg:oaf:app:cc
-stg:ace:app:st
-stg:wow:app:td
-stg:wap:app:st
+stg:oaf:app:cons:cc
+stg:ace:app:cons:st
+stg:wow:app:bus:td
+stg:wap:app:bus:st
 ```
 
 BOM
 
 ```
-bom:oaf:app:cc
-bom:ace:app:st
-bom:wow:app:td
-bom:wap:app:st
+bom:oaf:app:bus:cc
+bom:ace:app:bus:st
+bom:wow:app:cons:td
+bom:wap:app:cons:st
 ```
 
 BSA
 
 ```
-bsa:oaf:app:cc
-bsa:ace:app:st
-bsa:wow:app:td
+bsa:oaf:app:cons:cc
+bsa:ace:app:cons:st
+bsa:wow:app:bus:td
 ```
 
 
@@ -63,11 +63,11 @@ bsa:wow:app:td
 eVars
 
 ```
-eVar41: journey-type
-eVar42: form-type
-eVar43: account-type
+eVar41: Journey-type
+eVar42: Form-type
+eVar43: Account-type
 
-eVarXX: account-status
+eVar72: Account status
 ```
 
 Props
